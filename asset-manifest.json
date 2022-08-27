@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/compound-interest-calculator-react/static/css/main.de5083e8.css",
+    "main.js": "/compound-interest-calculator-react/static/js/main.e1e06fa4.js",
+    "static/js/787.496358ef.chunk.js": "/compound-interest-calculator-react/static/js/787.496358ef.chunk.js",
+    "index.html": "/compound-interest-calculator-react/index.html",
+    "main.de5083e8.css.map": "/compound-interest-calculator-react/static/css/main.de5083e8.css.map",
+    "main.e1e06fa4.js.map": "/compound-interest-calculator-react/static/js/main.e1e06fa4.js.map",
+    "787.496358ef.chunk.js.map": "/compound-interest-calculator-react/static/js/787.496358ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de5083e8.css",
+    "static/js/main.e1e06fa4.js"
+  ]
+}
