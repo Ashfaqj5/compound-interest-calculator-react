@@ -2,7 +2,7 @@
   "name": "compound",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://calculateinterestwebsite.com",
+  "homepage": "https://ashfaqj5.github.io/compound-interest-calculator-react",
   "dependencies": {
     "-": "^0.0.1",
     "@testing-library/jest-dom": "^5.16.5",
