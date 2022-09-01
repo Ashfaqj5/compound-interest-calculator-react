@@ -1,3 +1,6 @@
+*{
+  background-color: #F7FAE9;
+}
 form{
     height: min-content;
     font-family: sans-serif;
@@ -16,7 +19,7 @@ form{
 }
 
 input[type="submit"]{
-  background-color: #4CAF50; /* Green */
+  background-color: #2FC18A; /* Green */
   box-shadow: 2px 2px 2px black;
   border: none;
   color: white;
